@@ -5,7 +5,7 @@ date:   2016-08-16 05:00:00
 categories: release
 ---
 
-We are very happy to announce the latest update to Ilios, v3.17.0, and a host of great updates to the interface. Among the newly introduced features:
+We are very happy to announce the latest update to Ilios, __v3.17.0__, and a host of great updates to the interface. Among the newly introduced features:
 
 - *__Curriculum Inventory Report tools are now available for immediate use__*
 - Ilios now allows the ability to select, map, and manage competencies which have no sub-domains
